@@ -1,0 +1,7 @@
+{
+	"default" : {
+		"Header" : "headers/header.php",
+		"Footer" : "headers/footer.php",
+		"Head"	 : "headers/head.php"
+	}
+}

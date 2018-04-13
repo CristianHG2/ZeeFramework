@@ -1,0 +1,11 @@
+{
+	"Host"	: "localhost",
+	"Db"	: "db",
+	"User" 	: "user",
+	"Pswd" 	: "password",
+	"Dsn"	: "mysql:host=%s;dbname=%s",
+
+	"Query" : {
+		"TableExists" : "SELECT 1 FROM %s LIMIT 1"
+	}
+}
